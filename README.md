@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about **Java**
 - 📫 How to reach me: **buddhikaroshanofficial@gmail.com**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaRoshan" alt="BuddhikaRoshan" /> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/buddhika_rosha" target="_blank">
