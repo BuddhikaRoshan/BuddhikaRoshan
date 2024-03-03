@@ -6,14 +6,20 @@
 <h3 align="center">"Enthusiastic IT Student | Navigating the Infinite Horizons of Tech 🚀"</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rush398&label=Profile%20views&color=0e75b6&style=flat" alt="rush398" />
+  <img src="https://komarev.com/ghpvc/?username=BuddhikaRoshan&label=Profile%20views&color=0e75b6&style=flat" alt="BuddhikaRoshan" />
 </p>
 
 - 👨‍🎓 I’m an Undergraduate at **SLIIT**
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about **Java**
 - 📫 How to reach me: **buddhikaroshanofficial@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaRoshan" alt="BuddhikaRoshan" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BuddhikaRoshan&show_icons=true" alt="BuddhikaRoshan" />
+</p>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaRoshan&layout=compact&hide=html" alt="BuddhikaRoshan" />
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/buddhika_rosha" target="_blank">
@@ -50,4 +56,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Rush398"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rush398" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/BuddhikaRoshan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rush398" /></a></p><br><br>
