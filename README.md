@@ -13,11 +13,8 @@
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about **Java**
 - 📫 How to reach me: **buddhikaroshanofficial@gmail.com**
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BuddhikaRoshan&show_icons=true" alt="BuddhikaRoshan" />
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaRoshan&layout=compact&hide=html" alt="BuddhikaRoshan" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
