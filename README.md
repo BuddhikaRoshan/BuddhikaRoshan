@@ -11,8 +11,8 @@
 
 - 👨‍🎓 I’m an Undergraduate at **SLIIT**
 - 🌱 I’m currently learning **MERN & Advanced Machine Learning**
-- 💬 Ask me about **Java, Data Science, AI & ML**
-- 🔥 Building **MyFinanceMate** – A Smart Expense & Income Manager
+- 💬 Ask me about **Java, Phython, Data Science, AI & ML**
+- 🔥 Building **FinanceFusion** – A Smart Expense & Income Manager
 - 📚 Certifications:
   - Google Data Analytics Professional Certificate
   - Google UX Design Professional Certificate
