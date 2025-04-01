@@ -20,14 +20,19 @@
   - Data Science Math Skills (Duke University)
 - 📫 How to reach me: **buddhikaroshanofficial@gmail.com**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuddhikaRoshan&show_icons=true" alt="BuddhikaRoshan" />
-</p>
+### 🐱My Github stats:
+![Buddhika's github stats](https://github-readme-stats.vercel.app/api?username=BuddhikaRoshan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaRoshan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 <p align="center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaRoshan&theme=react&layout=compact" />
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=BuddhikaRoshan&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 </p>
-
+<br>
 
 
 ### 🛠 &nbsp;Tech Stack
