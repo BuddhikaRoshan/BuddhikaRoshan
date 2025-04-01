@@ -28,15 +28,6 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaRoshan&theme=react&layout=compact" />
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-
-<a href="www.linkedin.com/in/buddhika-roshan99-aa7aa024a"><img src="https://img.shields.io/badge/-Buddhika%20Roshan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:buddhikaroshanofficial@gmail.com"><img src="https://img.shields.io/badge/-Buddhika%20Roshan-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/buddhika_roshan99/"><img src="https://img.shields.io/badge/-Buddhika%20Roshan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://web.facebook.com/buddhika.roshan.7505/"><img src="https://img.shields.io/badge/-Buddhika%20Roshan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -127,6 +118,17 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/buddhika-roshan99-aa7aa024a"><img src="https://img.shields.io/badge/-Buddhika%20Roshan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:buddhikaroshanofficial@gmail.com"><img src="https://img.shields.io/badge/-Buddhika%20Roshan-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/buddhika_roshan99/"><img src="https://img.shields.io/badge/-Buddhika%20Roshan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://web.facebook.com/buddhika.roshan.7505/"><img src="https://img.shields.io/badge/-Buddhika%20Roshan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/BuddhikaRoshan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
